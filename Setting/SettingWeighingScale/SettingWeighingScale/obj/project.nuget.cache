@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "F7BgoMFcAlLnMulci7YaHXZmyj1MuabTQJjyj5fwXKZ6QBEqNB19pGsUeUZD5wtn/NUpWhEd+yCCHIfuE1vkXg==",
+  "success": true,
+  "projectFilePath": "F:\\Angular\\SYSTEM\\Digital Mixing Room\\26052021\\DRM\\Setting\\SettingWeighingScale\\SettingWeighingScale\\SettingWeighingScale.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leo.doan\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.0.0\\microsoft.aspnetcore.jsonpatch.3.0.0.nupkg.sha512",
+    "C:\\Users\\leo.doan\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.0.0\\microsoft.aspnetcore.mvc.newtonsoftjson.3.0.0.nupkg.sha512",
+    "C:\\Users\\leo.doan\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
+    "C:\\Users\\leo.doan\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\leo.doan\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+F:\Angular\SYSTEM\Digital Mixing Room\26052021\dll\SettingWeighingScale.exe
+F:\Angular\SYSTEM\Digital Mixing Room\26052021\dll\SettingWeighingScale.dll
+F:\Angular\SYSTEM\Digital Mixing Room\26052021\dll\SettingWeighingScale.deps.json
+F:\Angular\SYSTEM\Digital Mixing Room\26052021\dll\SettingWeighingScale.runtimeconfig.json
+F:\Angular\SYSTEM\Digital Mixing Room\26052021\dll\SettingWeighingScale.pdb
+F:\Angular\SYSTEM\Digital Mixing Room\26052021\dll\Microsoft.AspNetCore.JsonPatch.dll
+F:\Angular\SYSTEM\Digital Mixing Room\26052021\dll\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\Angular\SYSTEM\Digital Mixing Room\26052021\dll\Newtonsoft.Json.dll
+F:\Angular\SYSTEM\Digital Mixing Room\26052021\dll\Newtonsoft.Json.Bson.dll

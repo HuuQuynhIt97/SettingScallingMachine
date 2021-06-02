@@ -1,0 +1,5 @@
+F:\Angular\SYSTEM\Digital Mixing Room\26052021\DRM\Setting\SettingWeighingScale.exe
+F:\Angular\SYSTEM\Digital Mixing Room\26052021\DRM\Setting\SettingWeighingScale.dll
+F:\Angular\SYSTEM\Digital Mixing Room\26052021\DRM\Setting\SettingWeighingScale.deps.json
+F:\Angular\SYSTEM\Digital Mixing Room\26052021\DRM\Setting\SettingWeighingScale.runtimeconfig.json
+F:\Angular\SYSTEM\Digital Mixing Room\26052021\DRM\Setting\SettingWeighingScale.pdb
